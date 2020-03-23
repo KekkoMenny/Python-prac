@@ -1,2 +1,2 @@
-# University-stuff
-Bunch of code practice and assignments
+# Python prac
+Bunch of code practice and things..
